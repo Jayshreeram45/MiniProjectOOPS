@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My first Git project");
+            Console.WriteLine("Second commit pushed to GitHub");
         }
     }
 }
